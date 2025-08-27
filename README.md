@@ -44,7 +44,7 @@ Folder Structure
     user-auth/
     │
     ├─ views/          
-    │   ├─ login.ejs
+    │   ├─ home.ejs
     │   ├─ signup.ejs
     │   
     │
