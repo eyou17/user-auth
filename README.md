@@ -25,7 +25,7 @@
 
   1 Clone the repository:
   
-    git clone https://github.com/eyou17e/user-auth.git
+    git clone https://github.com/eyou17/user-auth.git
     cd user-auth
 
   2 Install dependencies:
