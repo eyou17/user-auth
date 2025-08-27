@@ -1,8 +1,10 @@
-User Authentication App
+#  User Authentication App
 
-    A simple signup and signin system built with Node.js, Express, and EJS templates. This project demonstrates basic user authentication, form handling, and server-side rendering.
+## 📖 About
+    A simple signup and signin system built with Node.js, Express, and EJS templates. 
+    This project demonstrates basic user authentication, form handling, and server-side rendering.
 
-Features
+## ✨ Features
 
    => User Signup with name, username, password and password.
    => User Signin/Login with validation.
@@ -10,7 +12,7 @@ Features
    => Server-side rendering with EJS.
    => Form validation and error messages.
 
-Technologies Used
+## 🛠 Tech Stack
 
    => Node.js – JavaScript runtime.
    => Express.js – Web framework for Node.js.
@@ -19,7 +21,7 @@ Technologies Used
    => PostgreSQL - database.
    => Bootstrap / CSS – For styling forms and pages.
 
-Installation
+## ⚡ Getting Started
 
   1 Clone the repository:
   
@@ -39,7 +41,7 @@ Installation
     http://localhost:3000
     
 
-Folder Structure
+## 📂 Project Structure
 
     user-auth/
     │
@@ -52,4 +54,13 @@ Folder Structure
     |   ├─ style.css
     ├─ index.js          
     └─ package.json
+
+🤝 Contributing
+
+    Pull requests are welcome!
+    For major changes, open an issue first to discuss what you’d like to add.
+
+📜 License
+
+    MIT License – free to use, modify, and distribute.
 
