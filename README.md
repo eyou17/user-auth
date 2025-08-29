@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-   => User Signup with name, username, password and password.
+   => User Signup with name, username and password.
    => User Signin/Login with validation.
    => Password hashing for security (using bcrypt).
    => Server-side rendering with EJS.
