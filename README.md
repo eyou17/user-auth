@@ -4,22 +4,22 @@
     A simple signup and signin system built with Node.js, Express, and EJS templates. 
     This project demonstrates basic user authentication, form handling, and server-side rendering.
 
-## ✨ Features
 
-   => User Signup with name, username and password.
-   => User Signin/Login with validation.
-   => Password hashing for security (using bcrypt).
-   => Server-side rendering with EJS.
-   => Form validation and error messages.
+## ✨ Features
+- User Signup with name, username and password.  
+- User Signin/Login with validation.  
+- Password hashing for security (using bcrypt).  
+- Server-side rendering with EJS.  
+- Form validation and error messages.
+
+
 
 ## 🛠 Tech Stack
+- **Backend**: Node.js, Express  
+- **Frontend**: EJS, Bootstrap  
+- **Database**: PostgreSQL  
+- **Authentication**: Passport.js   
 
-   => Node.js – JavaScript runtime.
-   => Express.js – Web framework for Node.js.
-   => EJS – Template engine for rendering HTML pages.
-   => bcrypt – For password hashing.
-   => PostgreSQL - database.
-   => Bootstrap / CSS – For styling forms and pages.
 
 ## ⚡ Getting Started
 
