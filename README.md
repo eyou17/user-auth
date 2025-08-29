@@ -1,7 +1,7 @@
 #  User Authentication App
 
 ## 📖 About
-    A simple signup and signin system built with Node.js, Express, and EJS templates. 
+    signup and signin system built with Node.js, Express, and EJS templates. 
     This project demonstrates basic user authentication, form handling, and server-side rendering.
 
 
